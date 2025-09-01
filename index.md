@@ -25,6 +25,15 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+```markdown
+public class HelloWorld()
+{
+public static void main(String args[])
+{
+  System.out.println("Hello World!");
+}
+}
+```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
