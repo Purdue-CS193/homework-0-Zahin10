@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-##Zahin Chowdhury's First CS193 Homework
+## Zahin Chowdhury's First CS193 Homework
 - Learning how to use cmd prompt
 - Be more comfortable working in groups
 - Getting familiarized with push/pull/forks especially in hackathons so we can multitask
